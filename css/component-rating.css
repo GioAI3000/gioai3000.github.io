@@ -1,0 +1,24 @@
+.rating{display:inline-block;margin:0}.product .rating-star{--letter-spacing: .8;--font-size: 1.7}.card-wrapper .rating-star{--letter-spacing: .7;--font-size: 1.4}.rating-star{--color-rating-star: rgb(var(--color-foreground));--percent: calc( ( var(--rating) / var(--rating-max) + var(--rating-decimal) * var(--font-size) / (var(--rating-max) * (var(--letter-spacing) + var(--font-size))) ) * 100% );letter-spacing:calc(var(--letter-spacing) * 1rem);font-size:calc(var(--font-size) * 1rem);line-height:1;display:inline-block;font-family:Times;margin:0}.rating-star:before{content:"\2605\2605\2605\2605\2605";background:linear-gradient(90deg,var(--color-rating-star) var(--percent),rgba(var(--color-foreground),.15) var(--percent));-webkit-background-clip:text;-webkit-text-fill-color:transparent}.rating-text{display:none}.rating-count{display:inline-block;margin:0}@media (forced-colors: active){.rating{display:none}.rating-text{display:block}}
+/*# sourceMappingURL=/cdn/shop/t/2/assets/component-rating.css.map?v=157771854592137137841688736491 */
+
+/*
+     FILE ARCHIVED ON 08:42:31 Apr 20, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:49:40 Mar 13, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.599
+  exclusion.robots: 0.029
+  exclusion.robots.policy: 0.016
+  esindex: 0.009
+  cdx.remote: 12.232
+  LoadShardBlock: 130.183 (3)
+  PetaboxLoader3.datanode: 166.046 (5)
+  load_resource: 187.562
+  PetaboxLoader3.resolve: 89.754
+  loaddict: 70.005
+*/

@@ -1,0 +1,24 @@
+.loading-overlay{position:absolute;z-index:1;width:1.8rem}@media screen and (max-width: 749px){.loading-overlay{top:0;right:0}}@media screen and (min-width: 750px){.loading-overlay{left:0}}.loading-overlay__spinner{width:1.8rem;display:inline-block}.spinner{animation:rotator 1.4s linear infinite}@keyframes rotator{0%{transform:rotate(0)}to{transform:rotate(270deg)}}.path{stroke-dasharray:280;stroke-dashoffset:0;transform-origin:center;stroke:rgb(var(--color-foreground));animation:dash 1.4s ease-in-out infinite}@media screen and (forced-colors: active){.path{stroke:CanvasText}}@keyframes dash{0%{stroke-dashoffset:280}50%{stroke-dashoffset:75;transform:rotate(135deg)}to{stroke-dashoffset:280;transform:rotate(450deg)}}.loading-overlay:not(.hidden)+.cart-item__price-wrapper,.loading-overlay:not(.hidden)~cart-remove-button{opacity:50%}.loading-overlay:not(.hidden)~cart-remove-button{pointer-events:none;cursor:default}
+/*# sourceMappingURL=/cdn/shop/t/2/assets/component-loading-overlay.css.map?v=43236910203777044501688736491 */
+
+/*
+     FILE ARCHIVED ON 08:41:29 Apr 20, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:55:23 Mar 13, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.736
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.011
+  esindex: 0.015
+  cdx.remote: 31.446
+  LoadShardBlock: 620.371 (3)
+  PetaboxLoader3.datanode: 228.283 (5)
+  PetaboxLoader3.resolve: 940.301 (3)
+  load_resource: 565.336
+  loaddict: 124.996
+*/

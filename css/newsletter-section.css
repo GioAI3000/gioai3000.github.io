@@ -1,0 +1,24 @@
+.newsletter__wrapper{padding-right:calc(4rem / var(--font-body-scale));padding-left:calc(4rem / var(--font-body-scale))}@media screen and (min-width: 750px){.newsletter__wrapper{padding-right:9rem;padding-left:9rem}}.newsletter__wrapper>*{margin-top:0;margin-bottom:0}.newsletter__wrapper>*+*{margin-top:2rem}.newsletter__wrapper>*+.newsletter-form{margin-top:3rem}.newsletter__subheading{max-width:70rem;margin-left:auto;margin-right:auto}.newsletter__wrapper .newsletter-form__field-wrapper{max-width:36rem}.newsletter-form__field-wrapper .newsletter-form__message{margin-top:1.5rem}.newsletter__button{margin-top:3rem;width:fit-content}@media screen and (min-width: 750px){.newsletter__button{flex-shrink:0;margin:0 0 0 1rem}}
+/*# sourceMappingURL=/cdn/shop/t/2/assets/newsletter-section.css.map?v=62410470717655853621688736492 */
+
+/*
+     FILE ARCHIVED ON 08:42:12 Apr 20, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:50:10 Mar 13, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.503
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.015
+  esindex: 0.01
+  cdx.remote: 8.945
+  LoadShardBlock: 293.824 (3)
+  PetaboxLoader3.datanode: 219.974 (5)
+  PetaboxLoader3.resolve: 222.494 (2)
+  load_resource: 201.243
+  loaddict: 87.739
+*/
